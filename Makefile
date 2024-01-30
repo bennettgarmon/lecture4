@@ -9,6 +9,7 @@ all: test
 # runs for "make target1"
 # the line below this one must be TABBED in (not spaces!)
 # files DependsOn.o and main.cpp will be monitored for changes to know if it needs to be re-made
+#new comment
 clean:
 	rm test main
 
